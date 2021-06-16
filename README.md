@@ -11,6 +11,11 @@ Entenda você mesmo seguindo essas threads:
 
 # Como usar?
 
-Baixe a ultima versão desse repositório (code -> download ZIP) e abra o arquivo `index.html`, com o arquivo aberto em um navegador atual (não use o Internet Explorer), digite sua frase seed.
+Baixe a ultima versão desse repositório 
+- Acessando a versão hospedada pelo [Github](https://johnnyasantoss.github.io/bip39-nbitcoin-fixer/)
+- Baixando o código na ultima [release](https://github.com/johnnyasantoss/bip39-nbitcoin-fixer/releases/latest)
+- Baixando o código no Github usando o botão "Code" -> "Download ZIP"
+
+Abra o arquivo `index.html`, com o arquivo aberto em um navegador atual (não use o Internet Explorer), digite sua frase seed.
 
 A aplicação funciona offline, mas se quiser, desligue a sua conexão enquanto estiver convertendo sua chave.
